@@ -32,7 +32,4 @@ How：具体的权限（Privilege,正向授权与负向授权）。
 
 
 # 在派聪明中关于RBAC权限管理的模块结构
-````bash
-src/ ├── main/ │ ├── java/com/yizhaoqi/smartpai/ │ │ ├── config/ # 配置类 │ │ │ ├── SecurityConfig.java │ │ │ ├── JwtAuthenticationFilter.java │ │ ├── controller/ # 控制器 │ │ │ ├── UserController.java │ │ ├── service/ # 服务层 │ │ │ ├── UserService.java │ │ │ ├── CustomUserDetailsService.java │ │ ├── repository/ # 数据访问层 │ │ │ ├── UserRepository.java │ │ ├── model/ # 数据模型 │ │ │ ├── User.java │ │ ├── utils/ # 工具类 │ │ │ ├── PasswordUtil.java │ │ │ ├── JwtUtils.java │ ├── resources/ │ ├── application.yml # 配置文件 └── test/ ├── java/com/yizhaoqi/smartpai/ ├── service/ # 测试类 ├── UserServiceTest.java
-```
 
