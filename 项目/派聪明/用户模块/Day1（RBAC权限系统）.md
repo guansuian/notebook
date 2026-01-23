@@ -3,3 +3,6 @@ RBAC，全称为 Role-Based Access Control，翻译过来叫基于角色的访�
 ![](assets/Day1（RBAC权限系统）/file-20260123164834939.png)
 
 # 如何实现RBAC?
+
+首先我们要知道他的功能是什么：不要让实体之间产生直接依赖，而是通过抽象（角色/接口）进行关联。
+而在以前的项目中，我常常使用**ACL (Access Control List, 访问控制列表)**，
