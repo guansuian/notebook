@@ -199,7 +199,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/盐/关于盐的面试题.md": {
-    "scroll": 6.141571870595352,
+    "scroll": 9.020359718732541,
     "cursor": {
       "from": {
         "line": 9,
@@ -213,6 +213,65 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/盐/加盐能给我带来什么好处？.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/盐/慢哈希.md": {
+    "scroll": 119.34114527702332,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-4",
+      "item-2-8"
+    ]
+  },
+  "项目/派聪明/用户模块/day2/盐/加盐能给我带来什么好处？（盐和彩虹表的关系）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/盐/彩虹表.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/盐/盐在登录时候的流程.md": {
     "scroll": 0,
     "cursor": {
       "from": {
