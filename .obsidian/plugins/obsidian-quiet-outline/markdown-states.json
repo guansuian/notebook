@@ -19,17 +19,15 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 178,
-        "ch": 30
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 178,
-        "ch": 30
+        "line": 0,
+        "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-1"
-    ]
+    "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/盐在登录时候的流程.md": {
     "scroll": 0,
@@ -319,7 +317,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/安全控制/trae给我的任务.md": {
-    "scroll": 11.253095143926883,
+    "scroll": 3.1666666666666665,
     "cursor": {
       "from": {
         "line": 51,
@@ -331,5 +329,49 @@
       }
     },
     "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/安全控制/jwt和redis的结合.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/安全控制/为什么 JWT 鉴权里「需要 Redis」.md": {
+    "scroll": 24.32859853294544,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 1
+      },
+      "to": {
+        "line": 31,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/什么是CPU密集型 什么是IO密集型.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 8
+      },
+      "to": {
+        "line": 36,
+        "ch": 8
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
