@@ -403,15 +403,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/项目方法指导/cacheToken 缓存token.md": {
-    "scroll": 45.70816393909148,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 67,
-        "ch": 90
+        "line": 64,
+        "ch": 79
       },
       "to": {
-        "line": 67,
-        "ch": 90
+        "line": 64,
+        "ch": 79
       }
     },
     "expandedKeys": [
@@ -420,15 +420,15 @@
     ]
   },
   "项目/派聪明/用户模块/day2/项目方法指导/generateToken（生成token，需要将生成token缓存到redis）.md": {
-    "scroll": 0,
+    "scroll": 2.847395737965902,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 0
+        "line": 9,
+        "ch": 25
       },
       "to": {
-        "line": 3,
-        "ch": 0
+        "line": 9,
+        "ch": 25
       }
     },
     "expandedKeys": []
