@@ -7,11 +7,10 @@
 
 # 作用
 
-1. 
-   将token录入白名单
+1. **将token录入白名单**
   ` redisTemplate.opsForValue().set(key, tokenInfo, ttlSeconds, TimeUnit.SECONDS);  `
   
-2. 
+2. 使用户其他设备
    假设用户有多个设备都有登录，为了能够同时将这个用户所有的token都失效，那么就将集合中的token全部删除 ,所以需要事先将用户的token加入到集合中
     `addTokenToUser(userId, tokenId, expireTimeMs);  `
 
@@ -39,3 +38,18 @@ public void cacheToken(String tokenId, String userId, String username, long expi
     }  
 }
 ```
+
+
+
+## addTokenToUser方法
+
+
+## set方法解析
+
+`redisTemplate.opsForValue().set(key, tokenInfo, ttlSeconds, TimeUnit.SECONDS);`
+
+这个方法在redis源码中长
+`void set(K key, V value, long timeout, TimeUnit unit);`
+这样
+
+含义：设置键为`key`，值为`value`，并在`timeout` `unit` 后 (这个unit是时间单位，有可能是秒，也有可能是分钟)过期
