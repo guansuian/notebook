@@ -3,11 +3,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
+        "line": 23,
         "ch": 0
       },
       "to": {
-        "line": 1,
+        "line": 23,
         "ch": 0
       }
     },
