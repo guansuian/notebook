@@ -51,6 +51,8 @@ public void cacheToken(String tokenId, String userId, String username, long expi
 
 ### 作用
 
+这个 addTokenToUser 方法的作用是 “建立用户到 Token 的反向索引” 。
+简单来说，就是把这个新生成的 tokenId 记在 userId 的名下。
 
 
 ```java
