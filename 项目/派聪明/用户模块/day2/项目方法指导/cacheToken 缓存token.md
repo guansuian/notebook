@@ -10,7 +10,7 @@
 1. **将token录入白名单**
   ` redisTemplate.opsForValue().set(key, tokenInfo, ttlSeconds, TimeUnit.SECONDS);  `
   
-2. 使用户其他设备
+2. **使用户其他设备上的`token`快速失效**
    假设用户有多个设备都有登录，为了能够同时将这个用户所有的token都失效，那么就将集合中的token全部删除 ,所以需要事先将用户的token加入到集合中
     `addTokenToUser(userId, tokenId, expireTimeMs);  `
 
@@ -42,6 +42,10 @@ public void cacheToken(String tokenId, String userId, String username, long expi
 
 
 ## addTokenToUser方法
+
+### 参数
+
+
 
 
 ## set方法解析
