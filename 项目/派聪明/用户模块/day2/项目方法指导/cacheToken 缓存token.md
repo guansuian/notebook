@@ -1,12 +1,19 @@
 # 参数
 
-tokenId:
-userId:
-usename:
-expireTimeMs:
+`tokenId:` token的id
+`userId:` 用户的id（在集合中形成 用户 1-> n 设备token）
+`usename:` 用户名字
+`expireTimeMs:` 过期时间
 
 # 作用
 
+1. 
+   将token录入白名单
+  ` redisTemplate.opsForValue().set(key, tokenInfo, ttlSeconds, TimeUnit.SECONDS);  `
+  
+2. 
+   假设用户有多个设备都有登录，为了能够同时将这个用户所有的token都失效，那么就将集合中的token全部删除 ,所以需要事先将用户的token加入到集合中
+    `addTokenToUser(userId, tokenId, expireTimeMs);  `
 
 ```java
 private static final String TOKEN_PREFIX = "jwt:valid:";
