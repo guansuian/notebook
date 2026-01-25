@@ -288,7 +288,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/我对组织的理解/不晓得这个是什么.md": {
-    "scroll": 33.669890716495495,
+    "scroll": 100.92916552225749,
     "cursor": {
       "from": {
         "line": 3,
@@ -300,7 +300,36 @@
       }
     },
     "expandedKeys": [
-      "item-3-0"
+      "item-3-0",
+      "item-3-5"
     ]
+  },
+  "项目/派聪明/用户模块/day2/安全控制/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/安全控制/trae给我的任务.md": {
+    "scroll": 11.253095143926883,
+    "cursor": {
+      "from": {
+        "line": 51,
+        "ch": 46
+      },
+      "to": {
+        "line": 51,
+        "ch": 46
+      }
+    },
+    "expandedKeys": []
   }
 }
