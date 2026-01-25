@@ -172,6 +172,22 @@
     "scroll": 7.184278711850723,
     "cursor": {
       "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
+  },
+  "项目/派聪明/用户模块/day2/我对组织的理解/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 0,
         "ch": 0
       },
@@ -180,8 +196,6 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-3-0"
-    ]
+    "expandedKeys": []
   }
 }
