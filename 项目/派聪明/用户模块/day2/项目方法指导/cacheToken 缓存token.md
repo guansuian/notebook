@@ -54,6 +54,9 @@ public void cacheToken(String tokenId, String userId, String username, long expi
 
 
 ```java
+// 用户维度token集合键前缀，用于记录某用户下所有活跃token，便于批量登出
+private static final String USER_TOKENS_PREFIX = "jwt:user:";
+
 private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {  
     try {  
         String key = USER_TOKENS_PREFIX + userId + ":tokens";  
