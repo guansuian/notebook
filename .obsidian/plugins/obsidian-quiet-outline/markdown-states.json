@@ -84,5 +84,24 @@
       }
     },
     "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/彩虹表.md": {
+    "scroll": 71.6522813478415,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 45
+      },
+      "to": {
+        "line": 4,
+        "ch": 45
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-5",
+      "item-2-8"
+    ]
   }
 }
