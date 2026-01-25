@@ -45,7 +45,28 @@ public void cacheToken(String tokenId, String userId, String username, long expi
 
 ### 参数
 
+`userId:` 用户id
+`tokenId:` tokenId
+`expireTimeMs:` 过期时间
 
+### 作用
+
+
+
+```java
+private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {  
+    try {  
+        String key = USER_TOKENS_PREFIX + userId + ":tokens";  
+        redisTemplate.opsForSet().add(key, tokenId);  
+          
+        // 设置过期时间  
+        long ttlSeconds = (expireTimeMs - System.currentTimeMillis()) / 1000 + 300;  
+        redisTemplate.expire(key, Duration.ofSeconds(ttlSeconds));  
+    } catch (Exception e) {  
+        logger.error("Failed to add token to user set: {} - {}", userId, tokenId, e);  
+    }  
+}
+```
 
 
 ## set方法解析
