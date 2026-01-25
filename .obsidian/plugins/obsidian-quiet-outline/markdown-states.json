@@ -151,5 +151,37 @@
     "expandedKeys": [
       "item-2-3"
     ]
+  },
+  "项目/派聪明/用户模块/day2/盐/盐.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 31
+      },
+      "to": {
+        "line": 4,
+        "ch": 31
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "项目/派聪明/用户模块/任务列表.md": {
+    "scroll": 7.184278711850723,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
   }
 }
