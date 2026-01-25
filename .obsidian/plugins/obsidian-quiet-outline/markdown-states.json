@@ -103,5 +103,24 @@
       "item-2-5",
       "item-2-8"
     ]
+  },
+  "项目/派聪明/用户模块/day2/慢哈希.md": {
+    "scroll": 164.889843583107,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-4",
+      "item-2-8",
+      "item-2-14"
+    ]
   }
 }
