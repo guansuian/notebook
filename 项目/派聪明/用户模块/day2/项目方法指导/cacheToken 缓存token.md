@@ -65,7 +65,7 @@ Redis 里的数据默认是 Key-Value 结构的，Key 通常是 tokenId 。
 场景：一键踢人 / 修改密码
 - 当管理员要封禁张三 ( userId=1001 )，或者张三改了密码需要强制下线所有设备。
 - 后端系统手里只有 userId=1001 。
-- 通过这个方法建立的索引，后端可以去 Redis 查 jwt:user:1001:tokens ，瞬间得到一个列表 [ token_A, token_B, token_C ] 。
+- 通过这个方法建立的索引，后端可以去 Redis 查 jwt:user:1001:tokens ，瞬间得到一个列表 ( token_A, token_B, token_C ) 。
 - 然后后端就可以遍历这个列表，把这 3 个 Token 全部删掉。
 - 结果 ：张三的手机、电脑、iPad 全部同时下线。
 
