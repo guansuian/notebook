@@ -58,14 +58,28 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/加盐能给我带来什么好处？.md": {
+    "scroll": 5.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 4
+      },
+      "to": {
+        "line": 30,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day2/关于盐的面试题.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 8,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 8,
         "ch": 0
       }
     },
