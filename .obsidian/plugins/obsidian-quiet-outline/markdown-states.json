@@ -674,14 +674,14 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/jwt和redis缓存全流程.md": {
-    "scroll": 74.43402503985375,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 84,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 84,
+        "line": 0,
         "ch": 0
       }
     },
@@ -747,6 +747,22 @@
     },
     "expandedKeys": [
       "item-3-2"
+    ]
+  },
+  "项目/派聪明/用户模块/day3/jwt和redis/jwt和redis缓存全流程.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-1"
     ]
   }
 }
