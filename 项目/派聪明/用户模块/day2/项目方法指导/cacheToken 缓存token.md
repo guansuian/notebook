@@ -109,8 +109,8 @@ private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {
 
 **以`token`为键**
 
-| 键                   | 值                                                                              |
-| ------------------- | ------------------------------------------------------------------------------ |
-| jwt:valid:{tokenId} | {"userId":1,"username":"郑美玲","expireTime":"过期时间"}                              |
-| jwt:valid:1         | {"userId":2,<br>"username":"关睢按啊",<br>"expireTime":"过期时间"<br>}                 |
-| jwt:vaild:2         | ```java {<br>"userId":2,<br>"username":"关睢按啊",<br>"expireTime":"过期时间"<br>} ``` |
+| 键                   | 值                                                                          |
+| ------------------- | -------------------------------------------------------------------------- |
+| jwt:valid:{tokenId} | {<br>"userId":1,<br>"username":"郑美玲",<br>"expireTime":"过期时间"<br>}          |
+| jwt:valid:1         | {<br>"userId":2,<br>"username":"关睢按啊",<br>"expireTime":"过期时间"<br>}         |
+| jwt:vaild:2         | <br>{<br>"userId":2,<br>"username":"关睢按啊",<br>"expireTime":"过期时间"<br>} ``` |
