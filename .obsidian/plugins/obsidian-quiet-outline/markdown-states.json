@@ -549,12 +549,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 0
+        "line": 19,
+        "ch": 25
       },
       "to": {
-        "line": 2,
-        "ch": 0
+        "line": 19,
+        "ch": 25
       }
     },
     "expandedKeys": []
