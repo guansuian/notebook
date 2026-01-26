@@ -154,12 +154,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 51
+        "line": 1,
+        "ch": 3
       },
       "to": {
-        "line": 4,
-        "ch": 51
+        "line": 1,
+        "ch": 3
       }
     },
     "expandedKeys": [
@@ -238,10 +238,7 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-4",
-      "item-2-8"
-    ]
+    "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/盐/加盐能给我带来什么好处？（盐和彩虹表的关系）.md": {
     "scroll": 0,
@@ -674,15 +671,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/jwt和redis缓存全流程.md": {
-    "scroll": 168.24636874005438,
+    "scroll": 60.42234775402109,
     "cursor": {
       "from": {
-        "line": 149,
-        "ch": 0
+        "line": 82,
+        "ch": 15
       },
       "to": {
-        "line": 149,
-        "ch": 0
+        "line": 82,
+        "ch": 15
       }
     },
     "expandedKeys": [
@@ -690,7 +687,7 @@
     ]
   },
   "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测操作的理解（主要是流程理解）.md": {
-    "scroll": 0,
+    "scroll": 15.97057286898295,
     "cursor": {
       "from": {
         "line": 8,
