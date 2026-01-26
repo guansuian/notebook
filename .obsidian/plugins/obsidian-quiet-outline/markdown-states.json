@@ -702,15 +702,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/set集合我的理解.md": {
-    "scroll": 0,
+    "scroll": 8.242187261581421,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 15
+        "line": 24,
+        "ch": 0
       },
       "to": {
-        "line": 21,
-        "ch": 15
+        "line": 24,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -729,8 +729,20 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-3-2"
-    ]
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/关于set集合为什么需要设置过期时间和如何设置过期时间.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
