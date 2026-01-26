@@ -644,7 +644,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/redis里的set集合.md": {
-    "scroll": 50.573863124469746,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 59,
@@ -705,14 +705,32 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 178
+        "line": 8,
+        "ch": 17
       },
       "to": {
-        "line": 2,
+        "line": 8,
+        "ch": 17
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
+  },
+  "项目/派聪明/用户模块/day3/redis里的set集合（关于过期时间）.md": {
+    "scroll": 66.79702313741048,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-2"
+    ]
   }
 }
