@@ -18,3 +18,7 @@ if(检测到攻击的意图){
 所以我们应该在set集合中把长token和短token都存入。
 
 >所以set集合的最终目的是为了建立一个userId对多个tokenId的关系表，通过userId查找出所有的tokenId，然后那这个这个tokenId去缓存长token和短token的地方删除这些token，他本质上就是一个清单。
+
+## 第二 关于set集合是否需要设置过期时间和如何设置过期时间
+
+

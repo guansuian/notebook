@@ -705,12 +705,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 66
+        "line": 21,
+        "ch": 15
       },
       "to": {
-        "line": 10,
-        "ch": 66
+        "line": 21,
+        "ch": 15
       }
     },
     "expandedKeys": [
@@ -718,7 +718,7 @@
     ]
   },
   "项目/派聪明/用户模块/day3/redis里的set集合（关于过期时间）.md": {
-    "scroll": 66.79702313741048,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 0,
