@@ -105,9 +105,12 @@ private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {
 
 ## 以token为键 和以userId为键
 
+值得注意的是这里都是存的 **短**`token`
+
 **以`token`为键**
 
 | 键                   | 值   |
 | ------------------- | --- |
 | jwt:valid:{tokenId} |     |
-|                     |     |
+| jwt:valid:1         |     |
+| jwt:vaild:2         |     |
