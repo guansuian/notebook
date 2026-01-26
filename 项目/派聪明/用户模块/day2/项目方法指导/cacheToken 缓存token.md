@@ -102,3 +102,12 @@ private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {
 这样
 
 含义：设置键为`key`，值为`value`，并在`timeout` `unit` 后 (这个unit是时间单位，有可能是秒，也有可能是分钟)过期
+
+## 以token为键 和以userId为键
+
+**以`token`为键**
+
+| 键                   | 值   |
+| ------------------- | --- |
+| jwt:valid:{tokenId} |     |
+|                     |     |
