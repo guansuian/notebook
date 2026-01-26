@@ -247,12 +247,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 17
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 6,
-        "ch": 17
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -345,7 +345,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/安全控制/为什么 JWT 鉴权里「需要 Redis」.md": {
-    "scroll": 24.32859853294544,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 31,
@@ -420,7 +420,7 @@
     ]
   },
   "项目/派聪明/用户模块/day2/项目方法指导/generateToken（生成token，需要将生成token缓存到redis）.md": {
-    "scroll": 36.374999818347746,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 62,
@@ -508,15 +508,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/全流程.md": {
-    "scroll": 18.42447868982951,
+    "scroll": 89.52746123295786,
     "cursor": {
       "from": {
-        "line": 77,
-        "ch": 33
+        "line": 79,
+        "ch": 18
       },
       "to": {
-        "line": 77,
-        "ch": 5
+        "line": 79,
+        "ch": 18
       }
     },
     "expandedKeys": [
@@ -591,15 +591,29 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测的理解（主要是流程理解）.md": {
-    "scroll": 7.715624809265137,
+    "scroll": 18.408806158180965,
     "cursor": {
       "from": {
         "line": 14,
-        "ch": 72
+        "ch": 396
       },
       "to": {
         "line": 14,
-        "ch": 72
+        "ch": 396
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
