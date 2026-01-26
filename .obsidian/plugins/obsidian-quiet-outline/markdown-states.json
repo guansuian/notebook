@@ -508,7 +508,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/全流程.md": {
-    "scroll": 63.70572837193807,
+    "scroll": 167.10119150248963,
     "cursor": {
       "from": {
         "line": 77,
@@ -580,11 +580,25 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
+        "line": 3,
         "ch": 0
       },
       "to": {
-        "line": 12,
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测的理解（主要是流程理解）.md": {
+    "scroll": 7.715624809265137,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
         "ch": 0
       }
     },
