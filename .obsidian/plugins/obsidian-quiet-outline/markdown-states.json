@@ -492,5 +492,35 @@
       }
     },
     "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 185,
+        "ch": 22
+      },
+      "to": {
+        "line": 185,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/全流程.md": {
+    "scroll": 63.70572837193807,
+    "cursor": {
+      "from": {
+        "line": 185,
+        "ch": 22
+      },
+      "to": {
+        "line": 185,
+        "ch": 22
+      }
+    },
+    "expandedKeys": [
+      "item-3-1"
+    ]
   }
 }
