@@ -419,15 +419,15 @@
     ]
   },
   "项目/派聪明/用户模块/day2/项目方法指导/generateToken（生成token，需要将生成token缓存到redis）.md": {
-    "scroll": 28.841665903727215,
+    "scroll": 19.31785637991769,
     "cursor": {
       "from": {
-        "line": 61,
-        "ch": 45
+        "line": 43,
+        "ch": 23
       },
       "to": {
-        "line": 61,
-        "ch": 45
+        "line": 43,
+        "ch": 23
       }
     },
     "expandedKeys": [
