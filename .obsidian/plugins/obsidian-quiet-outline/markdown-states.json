@@ -616,15 +616,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/当拿着refresh_token刷新时，set集合的操作.md": {
-    "scroll": 0,
+    "scroll": 35.14895788828532,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 34
+        "line": 118,
+        "ch": 0
       },
       "to": {
-        "line": 8,
-        "ch": 9
+        "line": 118,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -674,14 +674,14 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/jwt和redis缓存全流程.md": {
-    "scroll": 1,
+    "scroll": 176.7203105290731,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 150,
+        "ch": 26
       },
       "to": {
-        "line": 0,
+        "line": 148,
         "ch": 0
       }
     },
@@ -763,6 +763,66 @@
     },
     "expandedKeys": [
       "item-3-1"
+    ]
+  },
+  "项目/派聪明/用户模块/day3/总结.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "项目/派聪明/用户模块/day3/单飞操作.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "copilot/copilot-custom-prompts/Clip YouTube Transcript.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "copilot/copilot-conversations/你好@20260126_221645.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
     ]
   }
 }
