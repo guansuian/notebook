@@ -1,7 +1,7 @@
 
 # 参数
 
-username:
+`username:` 用户的名字 用于查询
 
 
 # 作用
@@ -12,6 +12,8 @@ username:
 
 
 ```java
+//这个就是短token
+private static final long EXPIRATION_TIME = 3600000; // 1 hour (调整为1小时)
 public String generateToken(String username) {  
     SecretKey key = getSigningKey(); // 解析密钥  
     // 获取用户信息  
