@@ -420,15 +420,15 @@
     ]
   },
   "项目/派聪明/用户模块/day2/项目方法指导/generateToken（生成token，需要将生成token缓存到redis）.md": {
-    "scroll": 37.38452420915876,
+    "scroll": 36.374999818347746,
     "cursor": {
       "from": {
         "line": 62,
-        "ch": 38
+        "ch": 45
       },
       "to": {
         "line": 62,
-        "ch": 38
+        "ch": 45
       }
     },
     "expandedKeys": [
@@ -448,5 +448,35 @@
       }
     },
     "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/项目方法指导/login.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/项目方法指导/generateRefreshToken（生成长token，并将token缓存到redis）.md": {
+    "scroll": 23.822620028541202,
+    "cursor": {
+      "from": {
+        "line": 50,
+        "ch": 63
+      },
+      "to": {
+        "line": 50,
+        "ch": 63
+      }
+    },
+    "expandedKeys": [
+      "item-1-1"
+    ]
   }
 }
