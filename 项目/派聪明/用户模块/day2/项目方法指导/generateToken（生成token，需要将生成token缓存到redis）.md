@@ -47,9 +47,14 @@ public String generateToken(String username) {
             .compact();  
       
     // 缓存token信息到Redis  
+    
     tokenCacheService.cacheToken(tokenId, user.getId().toString(), username, expireTime);  
       
     logger.info("Token generated and cached for user: {}, tokenId: {}", username, tokenId);  
     return token;  
 }
 ```
+
+
+
+[cacheToken 缓存token](cacheToken%20缓存token.md)
