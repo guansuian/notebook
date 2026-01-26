@@ -56,9 +56,10 @@ public String generateToken(String username) {
 ## 存在token里面的载荷和存在redis里面的参数的差别
 
 
-|     |     |
-| --- | --- |
-|     |     |
+|       | tokenId |
+| ----- | ------- |
+| 载荷    | 有       |
+| redis |         |
 
 
 
