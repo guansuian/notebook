@@ -56,10 +56,10 @@ public String generateToken(String username) {
 ## 存在token里面的载荷和存在redis里面的参数的差别
 
 
-|       | tokenId |
-| ----- | ------- |
-| 载荷    | 有       |
-| redis |         |
+|       | tokenId                 | username   |
+| ----- | ----------------------- | ---------- |
+| 载荷    | 有                       | 有          |
+| redis | 有（作为键）被存放，即一个短token就是一行 | 有（作为值被存放在） |
 
 
 
