@@ -24,5 +24,7 @@ if(检测到攻击的意图){
 
 ## 第三 set集合在 过期与复活 (Refresh) 这个阶段的不同场景的操作
 
-[当拿着refresh_token刷新时，set集合的操作](当拿着refresh_token刷新时，set集合的操作.md)
+三个流程
+已经过期 (Natural Expiration)
 
+[当拿着refresh_token刷新时，set集合的操作](当拿着refresh_token刷新时，set集合的操作.md)
