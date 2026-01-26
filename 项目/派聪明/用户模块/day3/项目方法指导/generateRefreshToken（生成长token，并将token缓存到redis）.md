@@ -48,4 +48,4 @@ public String generateRefreshToken(String username) {
 | ----- | ----------------------- | --------------- | ----------------------------- | -------------- |
 | 载荷    | 有                       | 有               | 有                             | 有              |
 | redis | 有（作为键）被存放，即一个短token就是一行 | 有（作为值被存放在redis） | 有（即存放在redis里面，又作为token过期的定时器） | 有（作为值存入redis中） |
-[cacheToken 缓存token](../../day2/项目方法指导/cacheToken%20缓存token.md)
+
