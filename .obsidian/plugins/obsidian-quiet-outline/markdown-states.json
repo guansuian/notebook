@@ -406,11 +406,11 @@
     "scroll": 29.63988140651158,
     "cursor": {
       "from": {
-        "line": 116,
+        "line": 44,
         "ch": 0
       },
       "to": {
-        "line": 116,
+        "line": 44,
         "ch": 0
       }
     },
@@ -434,5 +434,19 @@
     "expandedKeys": [
       "item-1-1"
     ]
+  },
+  "项目/派聪明/用户模块/day3/项目方法指导/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
