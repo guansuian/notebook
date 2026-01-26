@@ -149,6 +149,46 @@
 ### 流程图解 (Visual Flow)
 
 为了更直观，我生成了一个流程图，帮你理清它们的关系：
+```mermaid
+graph TD
+    A[开始] --> B[用户注册]
+    B --> C[MySQL存储用户信息]
+    C --> D[用户登录]
+    D --> E{验证用户名密码}
+    E -->|失败| F[返回登录失败]
+    E -->|成功| G[生成Token ID]
+    G --> H[Redis存储操作]
+    H --> I[返回Token给前端]
+    
+    I --> J[前端携带Access_Token请求]
+    J --> K[JwtAuthenticationFilter拦截]
+    K --> L[解析Token获取短ID]
+    L --> M[Redis查询GET jwt:valid:S_xxx]
+    M --> N{Token有效?}
+    N -->|无效| O[返回401]
+    N -->|有效| P[执行业务逻辑]
+    O --> Q[前端调用/refresh接口]
+    
+    Q --> R[解析Refresh_Token]
+    R --> S[Redis查询GET jwt:refresh:L_xxx]
+    S --> T{长Token存在?}
+    T -->|不存在| U[删除所有Token]
+    U --> V[返回401]
+    T -->|存在| W[检查用户状态]
+    W --> X{账号正常?}
+    X -->|禁用| Y[删除所有Token]
+    Y --> Z[返回403]
+    X -->|正常| AA[生成新Token]
+    AA --> BB[Redis存储新Token]
+    BB --> CC[返回新Access_Token]
+    
+    DD[管理员强制注销] --> EE[查询用户所有Token]
+    EE --> FF[遍历删除Token]
+    FF --> GG[删除索引]
+    GG --> HH[操作成功]
+    
+    CC --> J
+```
 
 ---
 
