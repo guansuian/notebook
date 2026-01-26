@@ -109,8 +109,8 @@ private void addTokenToUser(String userId, String tokenId, long expireTimeMs) {
 
 **以`token`为键**
 
-| 键                   | 值                     |
-| ------------------- | --------------------- |
-| jwt:valid:{tokenId} | {"userId":"{userId}", |
-| jwt:valid:1         |                       |
-| jwt:vaild:2         |                       |
+| 键                   | 值                        |
+| ------------------- | ------------------------ |
+| jwt:valid:{tokenId} | ```java {<br>us<br>} ``` |
+| jwt:valid:1         |                          |
+| jwt:vaild:2         |                          |
