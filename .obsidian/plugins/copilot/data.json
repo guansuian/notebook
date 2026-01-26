@@ -273,6 +273,20 @@
       "capabilities": [],
       "stream": true,
       "enableCors": true
+    },
+    {
+      "name": "deepseek-chat",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "sk-8edf94f675fd4f1bac983034b3bc40e6",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "api请求deepseek"
     }
   ],
   "activeEmbeddingModels": [
