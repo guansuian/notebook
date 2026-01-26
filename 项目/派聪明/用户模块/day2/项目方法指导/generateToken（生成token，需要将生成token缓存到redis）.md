@@ -55,13 +55,12 @@ public String generateToken(String username) {
 
 ## 存在token里面的载荷和存在redis里面的参数的差别
 
+|       | tokenId                 | username        | expireTime                    | userId         |
+| ----- | ----------------------- | --------------- | ----------------------------- | -------------- |
+| 载荷    | 有                       | 有               | 有                             | 有              |
+| redis | 有（作为键）被存放，即一个短token就是一行 | 有（作为值被存放在redis） | 有（即存放在redis里面，又作为token过期的定时器） | 有（作为值存入redis中） |
 
-|       | tokenId                 | username        | expireTime                    | userId |
-| ----- | ----------------------- | --------------- | ----------------------------- | ------ |
-| 载荷    | 有                       | 有               | 有                             |        |
-| redis | 有（作为键）被存放，即一个短token就是一行 | 有（作为值被存放在redis） | 有（即存放在redis里面，又作为token过期的定时器） |        |
-
-
+### redis里面 token存在集合和
 
 
 [cacheToken 缓存token](cacheToken%20缓存token.md)
