@@ -9,8 +9,6 @@
 1. 生成tokenId
 2. 为token添加载荷（组织标签，和主组织标签）
 
-
-
 ```java
 //这个就是短token
 private static final long EXPIRATION_TIME = 3600000; // 1 hour (调整为1小时)
@@ -54,6 +52,14 @@ public String generateToken(String username) {
     return token;  
 }
 ```
+
+## 存在token里面的载荷和存在redis里面的参数的差别
+
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 
