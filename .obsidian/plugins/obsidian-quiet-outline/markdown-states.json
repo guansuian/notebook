@@ -705,12 +705,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 17
+        "line": 10,
+        "ch": 66
       },
       "to": {
-        "line": 8,
-        "ch": 17
+        "line": 10,
+        "ch": 66
       }
     },
     "expandedKeys": [
