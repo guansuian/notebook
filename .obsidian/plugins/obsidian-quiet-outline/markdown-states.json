@@ -674,18 +674,20 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/jwt和redis缓存全流程.md": {
-    "scroll": 0,
+    "scroll": 60.42234775402109,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 31
+        "line": 80,
+        "ch": 33
       },
       "to": {
-        "line": 1,
-        "ch": 31
+        "line": 80,
+        "ch": 9
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-1"
+    ]
   },
   "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测操作的理解（主要是流程理解）.md": {
     "scroll": 0,
@@ -705,15 +707,16 @@
     "scroll": 8.242187261581421,
     "cursor": {
       "from": {
-        "line": 24,
+        "line": 25,
         "ch": 0
       },
       "to": {
-        "line": 24,
+        "line": 25,
         "ch": 0
       }
     },
     "expandedKeys": [
+      "item-3-1",
       "item-1-1"
     ]
   },
