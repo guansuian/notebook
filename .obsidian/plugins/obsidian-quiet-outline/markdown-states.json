@@ -588,15 +588,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测的理解（主要是流程理解）.md": {
-    "scroll": 24.787218185688893,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 8
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 8
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -639,6 +639,36 @@
       "to": {
         "line": 141,
         "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day3/redis里的set集合.md": {
+    "scroll": 50.573863124469746,
+    "cursor": {
+      "from": {
+        "line": 59,
+        "ch": 56
+      },
+      "to": {
+        "line": 59,
+        "ch": 56
+      }
+    },
+    "expandedKeys": [
+      "item-3-2"
+    ]
+  },
+  "项目/派聪明/用户模块/day3/我对轮转令牌,重放检测和set集合操作的理解（主要是流程理解）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []
