@@ -462,7 +462,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/项目方法指导/generateRefreshToken（生成长token，并将token缓存到redis）.md": {
-    "scroll": 23.822620028541202,
+    "scroll": 7.927083650171159,
     "cursor": {
       "from": {
         "line": 51,
@@ -1146,15 +1146,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day4/项目方法指导/未命名.md": {
-    "scroll": 0,
+    "scroll": 5.4523809523809526,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 14
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 14
       }
     },
     "expandedKeys": []
