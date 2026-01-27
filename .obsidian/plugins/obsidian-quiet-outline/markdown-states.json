@@ -1146,15 +1146,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day4/项目方法指导/未命名.md": {
-    "scroll": 5.4523809523809526,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 14
+        "line": 48,
+        "ch": 0
       },
       "to": {
-        "line": 2,
-        "ch": 14
+        "line": 48,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1168,6 +1168,20 @@
       },
       "to": {
         "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day4/项目方法指导/各个方法调用.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 0
+      },
+      "to": {
+        "line": 48,
         "ch": 0
       }
     },
