@@ -401,14 +401,14 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day2/项目方法指导/cacheToken 缓存token.md": {
-    "scroll": 53.7994798819224,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 44,
-        "ch": 0
+        "line": 0,
+        "ch": 4
       },
       "to": {
-        "line": 44,
+        "line": 0,
         "ch": 0
       }
     },
@@ -1068,6 +1068,50 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day1/任务列表.md": {
+    "scroll": 15.721726055093006,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
+  },
+  "项目/派聪明/用户模块/day4/项目方法指导/login.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day4/项目方法指导/login 登录操作.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },
