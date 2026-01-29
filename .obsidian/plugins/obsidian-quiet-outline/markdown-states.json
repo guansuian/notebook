@@ -1272,5 +1272,47 @@
       }
     },
     "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/extractRoleFromToken（提取角色）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 7
+      },
+      "to": {
+        "line": 2,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/extractOrgTagsFromToken（提取组织标签）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 3
+      },
+      "to": {
+        "line": 15,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/extractPrimaryOrgFromToken（提取主组织标签）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 122
+      },
+      "to": {
+        "line": 1,
+        "ch": 122
+      }
+    },
+    "expandedKeys": []
   }
 }
