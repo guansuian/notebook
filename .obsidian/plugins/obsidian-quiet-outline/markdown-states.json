@@ -1219,14 +1219,16 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 3
+        "line": 36,
+        "ch": 28
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 36,
+        "ch": 28
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-1"
+    ]
   }
 }

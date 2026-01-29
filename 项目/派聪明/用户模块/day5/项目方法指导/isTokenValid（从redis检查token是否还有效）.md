@@ -5,8 +5,8 @@
 # 作用
 
 检验前端传过来的短token是否有效
-zai
-
+先是查询在黑名单是否有
+然后再去白名单检查
 
 
 ```java
@@ -31,3 +31,7 @@ public boolean isTokenValid(String tokenId) {
     }  
 }
 ```
+
+## 我的思考
+
+我觉得完全没有必要设置一个黑名单，只要白名单没有，
