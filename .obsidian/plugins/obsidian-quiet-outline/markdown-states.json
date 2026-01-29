@@ -1216,15 +1216,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day5/项目方法指导/isTokenValid（从redis检查token是否还有效）.md": {
-    "scroll": 12.003570919945126,
+    "scroll": 31.05119142078218,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 6
+        "line": 51,
+        "ch": 35
       },
       "to": {
-        "line": 40,
-        "ch": 6
+        "line": 51,
+        "ch": 60
       }
     },
     "expandedKeys": [

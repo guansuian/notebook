@@ -38,5 +38,21 @@ public boolean isTokenValid(String tokenId) {
 
 所以这样修改
 
-```
+```java
+/**
+ * 验证token是否有效
+ * 逻辑：只要 Redis 里能查到，且没过期，就是有效。
+ * 如果被踢了，Redis 里自然查不到，直接返回 false。
+ */
+public boolean isTokenValid(String tokenId) {
+    try {
+        String key = TOKEN_PREFIX + tokenId;
+        // 只需要这一步！
+        // 如果管理员踢人执行了 DEL，这里直接返回 false，逻辑完美闭环。
+        return Boolean.TRUE.equals(redisTemplate.hasKey(key));
+    } catch (Exception e) {
+        logger.error("Failed to check token validity: {}", tokenId, e);
+        return false;
+    }
+}
 ```
