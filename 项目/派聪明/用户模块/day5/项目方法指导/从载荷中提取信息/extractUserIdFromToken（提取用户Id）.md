@@ -1,3 +1,4 @@
+[extractClaimsIgnoreExpiration（忽略token过期异常，提取载荷）](../../../day4/项目方法指导/extractClaimsIgnoreExpiration（忽略token过期异常，提取载荷）.md)
 ```java
 public String extractUserIdFromToken(String token) {  
     try {  
