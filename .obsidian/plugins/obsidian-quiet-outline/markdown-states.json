@@ -1230,5 +1230,47 @@
     "expandedKeys": [
       "item-1-1"
     ]
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/extractUsernameFromToken（提取名字）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day5/项目方法指导/从载荷中提取信息/extractUserIdFromToken（提取用户Id）.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 3
+      },
+      "to": {
+        "line": 10,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
   }
 }
