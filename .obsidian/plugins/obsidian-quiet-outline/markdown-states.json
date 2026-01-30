@@ -1106,15 +1106,15 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day4/项目方法指导/login 登录操作.md": {
-    "scroll": 4.444642748151507,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 139
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 14,
-        "ch": 139
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1349,14 +1349,16 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
+        "line": 9,
         "ch": 0
       },
       "to": {
-        "line": 7,
+        "line": 9,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-4"
+    ]
   }
 }
