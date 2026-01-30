@@ -672,7 +672,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day3/jwt和redis缓存全流程.md": {
-    "scroll": 149.42239077885947,
+    "scroll": 155.91441021459678,
     "cursor": {
       "from": {
         "line": 194,
@@ -683,7 +683,9 @@
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-1"
+    ]
   },
   "项目/派聪明/用户模块/day3/我对轮转令牌和重放检测操作的理解（主要是流程理解）.md": {
     "scroll": 15.97057286898295,
@@ -1104,7 +1106,7 @@
     "expandedKeys": []
   },
   "项目/派聪明/用户模块/day4/项目方法指导/login 登录操作.md": {
-    "scroll": 0,
+    "scroll": 4.444642748151507,
     "cursor": {
       "from": {
         "line": 14,
@@ -1219,12 +1221,12 @@
     "scroll": 31.05119142078218,
     "cursor": {
       "from": {
-        "line": 51,
-        "ch": 35
+        "line": 58,
+        "ch": 0
       },
       "to": {
-        "line": 51,
-        "ch": 60
+        "line": 58,
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -1324,6 +1326,34 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day6/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/派聪明/用户模块/day6/ACl vs RBAC vs ABAC.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
         "ch": 0
       }
     },
