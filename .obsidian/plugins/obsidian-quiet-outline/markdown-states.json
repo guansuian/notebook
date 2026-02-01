@@ -1389,15 +1389,15 @@
     "expandedKeys": []
   },
   "项目/若依/day1/login.md": {
-    "scroll": 5.761904761904762,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 3
+        "line": 1,
+        "ch": 0
       },
       "to": {
-        "line": 45,
-        "ch": 45
+        "line": 1,
+        "ch": 0
       }
     },
     "expandedKeys": []
