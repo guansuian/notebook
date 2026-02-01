@@ -1335,11 +1335,11 @@
     "cursor": {
       "from": {
         "line": 10,
-        "ch": 7
+        "ch": 15
       },
       "to": {
         "line": 10,
-        "ch": 9
+        "ch": 11
       }
     },
     "expandedKeys": []
@@ -1359,5 +1359,33 @@
     "expandedKeys": [
       "item-3-4"
     ]
+  },
+  "项目/若依/day1/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 93
+      },
+      "to": {
+        "line": 89,
+        "ch": 93
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day1/若依建表.md": {
+    "scroll": 35.48390064071743,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 20
+      },
+      "to": {
+        "line": 11,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
   }
 }
