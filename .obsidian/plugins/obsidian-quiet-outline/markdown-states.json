@@ -1417,15 +1417,29 @@
     "expandedKeys": []
   },
   "项目/若依/day1/如何使用若依.md": {
+    "scroll": 11.677517334620157,
+    "cursor": {
+      "from": {
+        "line": 48,
+        "ch": 12
+      },
+      "to": {
+        "line": 48,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day1/若依 部门 班级.md": {
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 110,
-        "ch": 63
+        "line": 132,
+        "ch": 49
       },
       "to": {
-        "line": 110,
-        "ch": 63
+        "line": 132,
+        "ch": 49
       }
     },
     "expandedKeys": []
