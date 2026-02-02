@@ -1364,12 +1364,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 14
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 2,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1398,6 +1398,34 @@
       "to": {
         "line": 1,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day1/sys_menu 菜单权限表.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day1/如何使用若依.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 110,
+        "ch": 63
+      },
+      "to": {
+        "line": 110,
+        "ch": 63
       }
     },
     "expandedKeys": []
