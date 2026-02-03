@@ -1459,14 +1459,28 @@
     "expandedKeys": []
   },
   "项目/若依/day2/我的一些问题.md": {
-    "scroll": 0.7919999694824219,
+    "scroll": 18.280730088551838,
     "cursor": {
       "from": {
-        "line": 21,
+        "line": 62,
         "ch": 0
       },
       "to": {
-        "line": 21,
+        "line": 62,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "copilot/copilot-conversations/请你帮我生成一个e-r图_用户和角色是一个多对多关系_角色和@20260203_213958.md": {
+    "scroll": 9.404388714733543,
+    "cursor": {
+      "from": {
+        "line": 64,
+        "ch": 45
+      },
+      "to": {
+        "line": 25,
         "ch": 0
       }
     },
