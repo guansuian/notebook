@@ -8,4 +8,3 @@
 
 文件在前端表示为一个路由加上一个页面（或者说是一个组件）
 
-https://open.bigmodel.cn/api/paas/v4
