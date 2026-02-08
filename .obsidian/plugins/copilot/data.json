@@ -287,6 +287,18 @@
       ],
       "stream": true,
       "displayName": "api请求deepseek"
+    },
+    {
+      "name": "GLM-4.7",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+      "apiKey": "2ad43cdababf4b5994b5f08aa2ce2635.YnwCS37G8cjM4Btz",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "智谱模型"
     }
   ],
   "activeEmbeddingModels": [

@@ -1653,5 +1653,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "copilot/copilot-conversations/你好@20260208_200539.md": {
+    "scroll": 76.38541666666667,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
