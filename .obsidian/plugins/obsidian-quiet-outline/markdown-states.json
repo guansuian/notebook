@@ -1599,10 +1599,10 @@
     "expandedKeys": []
   },
   "项目/若依/day3/RBAC建表.md": {
-    "scroll": 21.583333333333332,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 53,
         "ch": 0
       },
       "to": {
@@ -1636,6 +1636,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day3/若依中目录M是什么？菜单C是什么？.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 27
+      },
+      "to": {
+        "line": 8,
+        "ch": 27
       }
     },
     "expandedKeys": []
