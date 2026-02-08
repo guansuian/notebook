@@ -1459,7 +1459,7 @@
     "expandedKeys": []
   },
   "项目/若依/day2/我的一些问题.md": {
-    "scroll": 1.2465964435774062,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 51,
@@ -1580,6 +1580,34 @@
       "to": {
         "line": 3,
         "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day3/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "项目/若依/day3/RBAC建表.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": []
