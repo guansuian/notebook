@@ -1715,11 +1715,11 @@
     "cursor": {
       "from": {
         "line": 44,
-        "ch": 0
+        "ch": 30
       },
       "to": {
         "line": 44,
-        "ch": 0
+        "ch": 30
       }
     },
     "expandedKeys": []
