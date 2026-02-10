@@ -1743,11 +1743,11 @@
     "cursor": {
       "from": {
         "line": 11,
-        "ch": 22
+        "ch": 40
       },
       "to": {
         "line": 11,
-        "ch": 22
+        "ch": 40
       }
     },
     "expandedKeys": []
