@@ -1714,12 +1714,40 @@
     "scroll": 17.161458333333332,
     "cursor": {
       "from": {
-        "line": 44,
-        "ch": 30
+        "line": 19,
+        "ch": 0
       },
       "to": {
-        "line": 44,
-        "ch": 30
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "数学/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "数学/关于循环.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
