@@ -65,6 +65,7 @@ CREATE TABLE `sys_user` (
   `status`      char(1)         DEFAULT '0'             COMMENT '状态（0正常 1停用）',
   `del_flag`    char(1)         DEFAULT '0'             COMMENT '逻辑删除（0存在 2删除）',
   `create_time` datetime                                COMMENT '创建时间',
+  `dept_id`     bigint(20)                              COMMENT '部门ID'
   PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB COMMENT='用户表';
 
