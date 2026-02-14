@@ -1826,12 +1826,12 @@
     "scroll": 12.626787741203179,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 17
+        "line": 24,
+        "ch": 8
       },
       "to": {
-        "line": 22,
-        "ch": 17
+        "line": 24,
+        "ch": 8
       }
     },
     "expandedKeys": []
